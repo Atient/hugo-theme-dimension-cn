@@ -1,4 +1,4 @@
-# Dimension-Modified
+# Dimension-CN
 
 本项目是在Hugo theme: [Dimension](https://github.com/your-identity/hugo-theme-dimension.git)基础上的修改。
 
@@ -6,7 +6,7 @@
 
 ---
 
-- [Dimension-Modified](#dimension-modified)
+- [Dimension-CN](#dimension-CN)
   - [新增特性](#新增特性)
   - [如何配置](#如何配置)
     - [导航分页](#导航分页)
@@ -69,4 +69,4 @@ logo: "/path/to/your/logo"
 
 Copyright © 2021 Atient
 
-The theme is released under the CC BY 3.0 License. Check the [original theme license](https://github.com/Atient/hugo-theme-dimension-modified/blob/master/LICENSE.md) for additional licensing information.
+The theme is released under the CC BY 3.0 License. Check the [original theme license](https://github.com/Atient/hugo-theme-dimension-cn/blob/master/LICENSE.md) for additional licensing information.
