@@ -1,0 +1,16 @@
+name = "Dimension-Modified"
+license = "CC 3.0"
+licenselink = "https://creativecommons.org/licenses/by/3.0/"
+description = "A port of HTML5UP's dimension theme, optimized for markdown based CMS."
+homepage = "https://github.com/Atient/hugo-theme-dimension-modified"
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "personal", "responsive", "simple"]
+features = ["blog", "syntax highlighting"]
+min_version = 0.54
+
+[author]
+  name = "atient"
+  homepage = "https://www.atient.cn"
+
+[original]
+    author = "d-asnaghi"
+    homepage = "https://d-asnaghi.github.io"
